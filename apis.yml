@@ -1,0 +1,32 @@
+aid: remote-calc
+name: Remote Calc
+description: "Decodes base64 encoding and parses it to return a solution to the calculation in JSON"
+url: https://github.com/elizabethadegbaju/remotecalc
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: Remote Calc
+    description: "Decodes base64 encoding and parses it to return a solution to the calculation in JSON"
+    humanURL: https://github.com/elizabethadegbaju/remotecalc
+    baseURL: https://github.com/elizabethadegbaju/remotecalc
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://github.com/elizabethadegbaju/remotecalc
+common:
+  - type: Website
+    url: https://github.com/elizabethadegbaju/remotecalc
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
