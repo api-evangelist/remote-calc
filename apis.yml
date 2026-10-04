@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Mathematics
+  - Calculator
 apis:
   - name: Remote Calc
     description: "Decodes base64 encoding and parses it to return a solution to the calculation in JSON"
     humanURL: https://github.com/elizabethadegbaju/remotecalc
-    baseURL: https://github.com/elizabethadegbaju/remotecalc
     tags:
       - Science And Math
     properties:
@@ -53,3 +53,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
