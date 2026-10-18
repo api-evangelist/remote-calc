@@ -40,7 +40,8 @@ apis:
   - name: Remote Calc
     description: "Decodes base64 encoding and parses it to return a solution to the calculation in JSON"
     humanURL: https://github.com/elizabethadegbaju/remotecalc
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
